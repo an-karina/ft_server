@@ -1,5 +1,7 @@
 # ft_server
 
+You mast run docker-machine, create image, container and after that you can build and run docker.
+
 if (machine doesnt exist)
 
   docker-machine create default
