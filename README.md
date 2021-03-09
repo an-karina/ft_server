@@ -2,6 +2,8 @@
 
 You mast run docker-machine, create image, container and after that you can build and run docker.
 
+# useful comands
+
 if (machine doesnt exist)
 
   docker-machine create default
