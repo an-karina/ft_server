@@ -5,8 +5,9 @@ You mast run docker-machine, create image, container and after that you can buil
 # useful comands
 
 if (machine doesnt exist)
-
-  docker-machine create default
+{
+    docker-machine create default
+}
   
 else
 
